@@ -1,15 +1,3 @@
-#!/usr/bin/env python
-# encoding: utf-8
-"""
-utilities.py
-
-Created by Prashant Shiralkar on 2015-02-06.
-
-Utility methods to compute information-theoretic concepts such as 
-entropy, information gain, symmetrical uncertainty.
-
-"""
-
 import sys
 import os
 import random 
